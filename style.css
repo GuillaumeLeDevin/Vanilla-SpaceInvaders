@@ -24,6 +24,7 @@ body {
 h3 {
     text-align: center;
     margin: 20px 0;
+    font-size: 35px;
 }
 .grid div {
     width: 25px;
